@@ -14,14 +14,5 @@
 			"database_name": "studionishio-db",
 			"database_id": "acac05af-8bcb-4a9f-b7d1-76e724ece559"
 		}
-	],
-	"r2_buckets": [
-		{
-			"binding": "MEDIA",
-			"bucket_name": "my-emdash-media"
-		}
-	],
-	"triggers": {
-		"crons": ["* * * * *"]
-	}
+	]
 }
